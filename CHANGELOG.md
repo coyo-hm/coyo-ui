@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.7](https://github.com/COYO-HM/coyo-ui/compare/v1.0.6...v1.0.7) (2024-02-12)
+
+
+### 🐛 BUG FIXES
+
+* gh token 추가 ([0a3702f](https://github.com/COYO-HM/coyo-ui/commit/0a3702f4596d066ab17784102adad94f07843ab2))
+
 ## [1.0.6](https://github.com/COYO-HM/coyo-ui/compare/v1.0.5...v1.0.6) (2024-02-12)
 
 
