@@ -2,7 +2,7 @@ import { defineConfig } from "vite"
 import react from "@vitejs/plugin-react"
 import dts from "vite-plugin-dts"
 import tsconfigPaths from "vite-tsconfig-paths"
-import path from 'path';
+import path from "path"
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -21,28 +21,24 @@ export default defineConfig({
 	],
 	build: {
 		lib: {
-			entry: path.resolve(__dirname, 'src/index.ts'),
-			name: 'coyo-ui',
-			formats: ['es', 'cjs'],
-			fileName: (format) => `index.${format}.js`,
+			entry: path.resolve(__dirname, "src/index.ts"),
+			name: "coyo-ui",
+			formats: ["es", "cjs"],
+			fileName: format => `index.${format}.js`
 		},
 		rollupOptions: {
-			external: [
-				'react',
-				'react-dom',
-				'styled-components',
-			],
+			external: ["react", "react-dom", "styled-components"],
 			output: {
 				globals: {
-					react: 'React',
-					'react-dom': 'ReactDOM',
+					react: "React",
+					"react-dom": "ReactDOM"
 				},
 				banner: '"use client";',
-				interop: 'compat',
-			},
+				interop: "compat"
+			}
 		},
 		commonjsOptions: {
-			esmExternals: ["react"],
-		},
+			esmExternals: ["react"]
+		}
 	}
 })
