@@ -23,3 +23,10 @@ dist-ssr
 storybook-static
 package.tgz
 .storybook
+index.html
+/src
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+.eslintrc.cjs
+.gitignore
