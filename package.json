@@ -1,8 +1,33 @@
 {
-  "name": "coyo-ui",
-  "private": true,
+  "name": "@coyo-hm/coyo-ui",
+  "private": false,
   "version": "0.0.0-development",
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "author": "coyo-hm",
+  "keywords": [
+    "component",
+    "components",
+    "design",
+    "react",
+    "react-component",
+    "ui"
+  ],
+  "homepage": "https://main--65ae91d7cdf7712a838d310c.chromatic.com",
+  "bugs": {
+    "url": "https://github.com/COYO-HM/coyo-ui/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COYO-HM/coyo-ui.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com",
+    "tag": "latest"
+  },
+  "license": "MIT",
   "type": "module",
+  "main": "./dist/coyo-ui.umd.cjs",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -38,9 +63,5 @@
     "semantic-release": "^23.0.2",
     "typescript": "^5.2.2",
     "vite": "^5.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/COYO-HM/coyo-ui.git"
   }
 }
