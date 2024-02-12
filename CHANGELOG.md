@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.2](https://github.com/COYO-HM/coyo-ui/compare/v1.0.1...v1.0.2) (2024-02-12)
+
+
+### 🐛 BUG FIXES
+
+* release semantic 버그 수정 ([db44319](https://github.com/COYO-HM/coyo-ui/commit/db443191057629713d99a51dba668386fde4cca0))
+
 ## [1.0.1](https://github.com/COYO-HM/coyo-ui/compare/v1.0.0...v1.0.1) (2024-02-12)
 
 
