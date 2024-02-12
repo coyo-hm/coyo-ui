@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.5](https://github.com/COYO-HM/coyo-ui/compare/v1.0.4...v1.0.5) (2024-02-12)
+
+
+### 🐛 BUG FIXES
+
+* semantic release scope 삭제 ([ea38a18](https://github.com/COYO-HM/coyo-ui/commit/ea38a18ad8afcbad09b2f384b3585254b4aaaf09))
+
 ## [1.0.4](https://github.com/COYO-HM/coyo-ui/compare/v1.0.3...v1.0.4) (2024-02-12)
 
 
