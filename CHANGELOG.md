@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.3](https://github.com/COYO-HM/coyo-ui/compare/v1.0.2...v1.0.3) (2024-02-12)
+
+
+### 🐛 BUG FIXES
+
+* semantic-release scope 추가 ([6e2626e](https://github.com/COYO-HM/coyo-ui/commit/6e2626e34ad22b394603e334da0be0fbb6717eac))
+
 ## [1.0.2](https://github.com/COYO-HM/coyo-ui/compare/v1.0.1...v1.0.2) (2024-02-12)
 
 
