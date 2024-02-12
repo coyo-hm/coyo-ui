@@ -44,7 +44,7 @@
             { "type": "perf", "section": "♻\uFE0F PERFORMANCE", "hidden": false },
             { "type": "refactor", "section": "♻\uFE0F REFACTOR", "hidden": false },
             { "type": "revert", "section": "↩\uFE0F REVERTS", "hidden": false },
-            { "type": "style", "section": "♻\uFE0F STYLES", "hidden": false },
+            { "type": "style", "section": "\uD83D\uDC69\u200D\uD83C\uDFA4 STYLES", "hidden": false },
             { "type": "test", "section": "✅ TESTS", "hidden": true }
           ]
         }
