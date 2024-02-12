@@ -3,7 +3,9 @@
   "private": false,
   "version": "0.0.0-development",
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
-  "author": "coyo-hm",
+  "author": {
+    "name": "coyo-hm"
+  },
   "keywords": [
     "component",
     "components",
@@ -45,7 +47,8 @@
     "prepare": "husky install",
     "semantic-release": "semantic-release",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "chromatic": "source .env && npx chromatic --project-token=$CHROMATIC_TOKEN"
   },
   "dependencies": {
     "@emotion/react": "^11.11.3",
@@ -75,6 +78,7 @@
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
     "@vitejs/plugin-react": "^4.2.1",
+    "chromatic": "^10.9.3",
     "conventional-changelog-conventionalcommits": "^7.0.2",
     "eslint": "^8.56.0",
     "eslint-plugin-react-hooks": "^4.6.0",
