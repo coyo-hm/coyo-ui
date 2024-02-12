@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.9](https://github.com/COYO-HM/coyo-ui/compare/v1.0.8...v1.0.9) (2024-02-12)
+
+
+### 🐛 BUG FIXES
+
+* package 이름 수정 ([d2ae84e](https://github.com/COYO-HM/coyo-ui/commit/d2ae84eb910b4a9a4c99c6d54d2604e02d3e2f13))
+
 ## [1.0.8](https://github.com/COYO-HM/coyo-ui/compare/v1.0.7...v1.0.8) (2024-02-12)
 
 
