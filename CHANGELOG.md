@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.1](https://github.com/COYO-HM/coyo-ui/compare/v1.0.0...v1.0.1) (2024-02-12)
+
+
+### 🐛 BUG FIXES
+
+* npm publish 오류 수정 ([0355b5b](https://github.com/COYO-HM/coyo-ui/commit/0355b5bc4a3e6a7b0a4d142ff7ce5ac3c93b68a1))
+
 ## 1.0.0 (2024-02-12)
 
 
