@@ -2,7 +2,7 @@
   "name": "@coyo-hm/coyo-ui",
   "private": false,
   "version": "1.0.1",
-  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "description": "",
   "author": {
     "name": "coyo-hm"
   },
