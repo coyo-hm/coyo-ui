@@ -47,6 +47,15 @@
             { "type": "style", "section": "\uD83D\uDC69\u200D\uD83C\uDFA4 STYLES", "hidden": false },
             { "type": "test", "section": "✅ TESTS", "hidden": true }
           ]
+        },
+        "parserOpts": {
+          "noteKeywords": [
+            "BREAKING CHANGE",
+            "BREAKING CHANGES"
+          ]
+        },
+        "writerOpts": {
+          "commitsSort": ["subject", "scope"]
         }
       }
     ],
