@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.13](https://github.com/COYO-HM/coyo-ui/compare/v1.0.12...v1.0.13) (2024-02-12)
+
+
+### 🐛 BUG FIXES
+
+* npm 권한 오류 테스트 ([1a7c6f9](https://github.com/COYO-HM/coyo-ui/commit/1a7c6f9d9e82809b2937102a812684fffd9dd857))
+
 ## [1.0.12](https://github.com/COYO-HM/coyo-ui/compare/v1.0.11...v1.0.12) (2024-02-12)
 
 
