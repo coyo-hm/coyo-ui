@@ -11,13 +11,16 @@ jobs:
   release:
     name: release
     runs-on: ubuntu-latest
+    permissions:
+      packages: write
+      contents: read
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           cache: npm
           node-version: "lts/*"
-          registry-url: "https://registry.npmjs.org"
+          registry-url: "https://npm.pkg.github.com/"
       - run: npm ci
       - run: npx semantic-release
         env:
