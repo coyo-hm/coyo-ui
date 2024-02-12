@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.10](https://github.com/COYO-HM/coyo-ui/compare/v1.0.9...v1.0.10) (2024-02-12)
+
+
+### 🐛 BUG FIXES
+
+* semantic-release npm ([4075ccd](https://github.com/COYO-HM/coyo-ui/commit/4075ccd3aaa3b42fef61650dc279aa454e255577))
+
 ## [1.0.9](https://github.com/COYO-HM/coyo-ui/compare/v1.0.8...v1.0.9) (2024-02-12)
 
 
