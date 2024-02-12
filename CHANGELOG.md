@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.6](https://github.com/COYO-HM/coyo-ui/compare/v1.0.5...v1.0.6) (2024-02-12)
+
+
+### ↩️ REVERTS
+
+* semantic-release scope ([7055479](https://github.com/COYO-HM/coyo-ui/commit/7055479e76264305b56c1bed63b4d099b452b2de))
+
 ## [1.0.5](https://github.com/COYO-HM/coyo-ui/compare/v1.0.4...v1.0.5) (2024-02-12)
 
 
