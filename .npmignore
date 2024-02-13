@@ -1,18 +1,18 @@
 ## Logs
 #logs
-#*.log
-#npm-debug.log*
+*.log
+npm-debug.log*
 #yarn-debug.log*
 #yarn-error.log*
 #pnpm-debug.log*
 #lerna-debug.log*
 #
-#node_modules
+node_modules
 #dist-ssr
 #*.local
 #
 ## Editor directories and files
-#.idea
+.idea
 #.DS_Store
 #*.suo
 #*.ntvs*
@@ -20,19 +20,26 @@
 #*.sln
 #*.sw?
 
-#storybook-static
-#package.tgz
-#.storybook
-#index.html
-#/src
-#tsconfig.json
-#tsconfig.node.json
-#vite.config.ts
-#.eslintrc.cjs
-#.gitignore
+.github
+.husky
+.storybook
+public
+src
+storybook-static
+.commitlintrc.json
+.env
+.eslintrc.cjs
+.gitignore
+.gitmessage.txt
+.prettierignore
+.prettierrc.json
+.releaserc.json
+index.html
+package-lock.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
 
-*
 !LICENSE.txt
 !README.md
 !package.json
-!dist
