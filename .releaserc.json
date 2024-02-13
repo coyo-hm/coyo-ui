@@ -68,7 +68,8 @@
     ],
     ["@semantic-release/npm",
       {
-        "pkgRoot": "."
+        "pkgRoot": ".",
+        "tarball": "dist"
       }
     ],
     "@semantic-release/github",
