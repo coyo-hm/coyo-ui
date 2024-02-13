@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.21](https://github.com/COYO-HM/coyo-ui/compare/v1.0.20...v1.0.21) (2024-02-13)
+
+
+### 📝 DOCS
+
+* .npmignore 수정 ([46c5f7f](https://github.com/COYO-HM/coyo-ui/commit/46c5f7fd60376d9f9a6141f37fe926a366764eb9))
+
 ## [1.0.20](https://github.com/COYO-HM/coyo-ui/compare/v1.0.19...v1.0.20) (2024-02-13)
 
 
