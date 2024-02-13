@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [1.0.22](https://github.com/COYO-HM/coyo-ui/compare/v1.0.21...v1.0.22) (2024-02-13)
+
+
+### 🐛 BUG FIXES
+
+* dist 패키지 포함 ([0d41261](https://github.com/COYO-HM/coyo-ui/commit/0d412614f9ecc838c838fa82602efdece5b80e6e))
+* dist 패키지 포함 ([b5de897](https://github.com/COYO-HM/coyo-ui/commit/b5de8976fe6e6113d721c4f9fd98d44e623625f6))
+* dist 패키지 포함 ([fbb35c2](https://github.com/COYO-HM/coyo-ui/commit/fbb35c2765befc92517ff5535df0c4fb37a29573))
+
 ## [1.0.21](https://github.com/COYO-HM/coyo-ui/compare/v1.0.20...v1.0.21) (2024-02-13)
 
 
