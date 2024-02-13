@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.16](https://github.com/COYO-HM/coyo-ui/compare/v1.0.15...v1.0.16) (2024-02-13)
+
+
+### ↩️ REVERTS
+
+* package name 원상복귀 ([3905673](https://github.com/COYO-HM/coyo-ui/commit/3905673d4141952830bea83f9b48c0505bed275d))
+
 ## [1.0.15](https://github.com/COYO-HM/coyo-ui/compare/v1.0.14...v1.0.15) (2024-02-12)
 
 
