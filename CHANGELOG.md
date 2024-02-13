@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.19](https://github.com/COYO-HM/coyo-ui/compare/v1.0.18...v1.0.19) (2024-02-13)
+
+
+### 📝 DOCS
+
+* storybook docs 작성 ([7b79856](https://github.com/COYO-HM/coyo-ui/commit/7b79856199a49d858f5e21885304c9e1fd6b97b7))
+
 ## [1.0.18](https://github.com/COYO-HM/coyo-ui/compare/v1.0.17...v1.0.18) (2024-02-13)
 
 
