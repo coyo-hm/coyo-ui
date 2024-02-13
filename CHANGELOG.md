@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.18](https://github.com/COYO-HM/coyo-ui/compare/v1.0.17...v1.0.18) (2024-02-13)
+
+
+### 📝 DOCS
+
+* readme 수정 ([d0bb72f](https://github.com/COYO-HM/coyo-ui/commit/d0bb72fc6907bfbe6d39a569b48918c4150e139c))
+
 ## [1.0.17](https://github.com/COYO-HM/coyo-ui/compare/v1.0.16...v1.0.17) (2024-02-13)
 
 
