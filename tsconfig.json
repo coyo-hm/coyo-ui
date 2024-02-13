@@ -32,7 +32,8 @@
     "src"
   ],
   "exclude": [
-    "**/*.stories.tsx"
+    "**/*.stories.tsx",
+    "**/*.mdx"
   ],
   "references": [
     {
