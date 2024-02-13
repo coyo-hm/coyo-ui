@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.17](https://github.com/COYO-HM/coyo-ui/compare/v1.0.16...v1.0.17) (2024-02-13)
+
+
+### ↩️ REVERTS
+
+* package org 복귀 ([e01c993](https://github.com/COYO-HM/coyo-ui/commit/e01c993d4f7da5a3737ace60b4d8a70205c625e2))
+
 ## [1.0.16](https://github.com/COYO-HM/coyo-ui/compare/v1.0.15...v1.0.16) (2024-02-13)
 
 
