@@ -24,7 +24,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "@coyo_hm:registry": "https://npm.pkg.github.com",
+    "@COYO-HM:registry": "https://npm.pkg.github.com",
     "tag": "latest"
   },
   "license": "MIT",
