@@ -40,6 +40,8 @@ tsconfig.json
 tsconfig.node.json
 vite.config.ts
 
+*.md
+
 !LICENSE.txt
 !README.md
 !package.json
