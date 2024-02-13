@@ -23,7 +23,7 @@ jobs:
           cache: npm
           node-version: "lts/*"
           registry-url: "https://npm.pkg.github.com/"
-          scope: '@COYO-HM'
+          scope: '@coyo_hm'
       - run: npm ci
       - run: npx semantic-release
         env:
