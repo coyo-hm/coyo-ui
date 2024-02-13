@@ -1,1 +1,69 @@
-test
+# COYO-UI
+
+[![npm version](https://img.shields.io/npm/v/%40coyo_hm%2Fcoyo-ui)](https://www.npmjs.com/package/@coyo_hm/coyo-ui)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+
+
+
+> 프로젝트 진행 중 자주 사용할 것 같은 ui component 를 생성해 둔 ui kit 입니다.
+
+
+## Prerequisites
+
+해당 프로젝트는 NodeJS and NPM 환경이 필요합니다.
+[Node](http://nodejs.org/) 과 [NPM](https://npmjs.org/) 에서 설치하실 수 있습니다.
+
+## Table of contents
+
+- [COYO-UI](#COYO-UI)
+    - [Prerequisites](#prerequisites)
+    - [Table of contents](#table-of-contents)
+    - [Installation](#installation)
+    - [Built With](#built-with)
+    - [Versioning](#versioning)
+    - [Link](#link)
+    - [Authors](#authors)
+    - [License](#license)
+
+## Installation
+
+`npm`을 사용하신다면,
+```sh
+$ npm i @coyo_hm/coyo-ui
+```
+
+`yarn`을 사용하신다면
+
+```sh
+$ yarn add @coyo_hm/coyo-ui
+```
+위의 명령어를 통해 간편하게 설치하실 수 있습니다. 
+
+## Built With
+
+* [Vite](https://ko.vitejs.dev/guide/) + [React](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/) 환경에서 개발을 진행하였습니다.
+* [Emotion](https://emotion.sh/docs/introduction): css를 정의하였습니다.
+* [Storybook](https://storybook.js.org/): 상세 설명 페이지 및 Component 관리를 위해 사용하였습니다.
+* [Chromatic](https://www.chromatic.com/): 컴포넌트 설명 페이지를 위해 사용하였습니다.
+
+## Versioning
+
+[SemVer](http://semver.org/)을 사용하였습니다.
+[tags on this repository](https://github.com/COYO-HM/coyo-ui/tags)을 통해 사용가능한 버전을 확인하실 수 있습니다.
+
+## Link
+
+* [🔗 github](https://github.com/COYO-HM/coyo-ui)
+* [🔗 docs](https://main--65ae91d7cdf7712a838d310c.chromatic.com/?path=/docs/configure-your-project--docs)
+* [🔗 npm](https://www.npmjs.com/package/@coyo_hm/coyo-ui)
+
+## Authors
+
+* **COYO** - *Initial work* - [COYO](https://github.com/COYO-HM)
+
+See also the list of [contributors](https://github.com/COYO-HM/coyo-ui/contributors) who participated in this project.
+
+## License
+
+[MIT License](https://andreasonny.mit-license.org/2019) © Andrea SonnY
