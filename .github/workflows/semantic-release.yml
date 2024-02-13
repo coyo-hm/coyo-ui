@@ -25,6 +25,7 @@ jobs:
           registry-url: "https://npm.pkg.github.com/"
           scope: '@COYO-HM'
       - run: npm ci
+      - run: npm run build
       - run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
