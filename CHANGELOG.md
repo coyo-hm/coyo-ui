@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.26](https://github.com/coyo-hm/coyo-ui/compare/v1.0.25...v1.0.26) (2024-02-15)
+
+
+### 📝 DOCS
+
+* git repo url 수정 ([3e683f0](https://github.com/coyo-hm/coyo-ui/commit/3e683f0e3be51a1a113646f3d8d985c4972a9162))
+
 ## [1.0.25](https://github.com/coyo-hm/coyo-ui/compare/v1.0.24...v1.0.25) (2024-02-15)
 
 
