@@ -27,7 +27,7 @@ export default defineConfig({
 			fileName: format => `index.${format}.js`
 		},
 		rollupOptions: {
-			external: ["react", "react-dom", "styled-components"],
+			external: ["react", "react-dom"],
 			output: {
 				globals: {
 					react: "React",
