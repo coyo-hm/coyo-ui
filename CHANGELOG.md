@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.25](https://github.com/coyo-hm/coyo-ui/compare/v1.0.24...v1.0.25) (2024-02-15)
+
+
+### 🐛 BUG FIXES
+
+* marquee title ([27b4bbf](https://github.com/coyo-hm/coyo-ui/commit/27b4bbfc9ee0d7c90177d5a9c7f7bc6e0f9a5fbd))
+
 ## [1.0.24](https://github.com/COYO-HM/coyo-ui/compare/v1.0.23...v1.0.24) (2024-02-13)
 
 
