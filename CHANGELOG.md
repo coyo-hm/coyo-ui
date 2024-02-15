@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.0.27](https://github.com/coyo-hm/coyo-ui/compare/v1.0.26...v1.0.27) (2024-02-15)
+
+
+### 📝 DOCS
+
+* 라이브러리 이름 수정 ([5d7550c](https://github.com/coyo-hm/coyo-ui/commit/5d7550cc5c3bca2713e38863431bb0a08fcb433b))
+
 ## [1.0.26](https://github.com/coyo-hm/coyo-ui/compare/v1.0.25...v1.0.26) (2024-02-15)
 
 
