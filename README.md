@@ -54,7 +54,7 @@ $ yarn add @coyo_hm/coyo-ui
 
 ## Link
 
-* [🔗 github](https://github.com/COYO-HM/coyo-ui)
+* [🔗 github](https://github.com/coyo-hm/coyo-ui)
 * [🔗 storybook](https://main--65ae91d7cdf7712a838d310c.chromatic.com/?path=/docs/coyo-ui--docs)
 * [🔗 npm](https://www.npmjs.com/package/@coyo_hm/coyo-ui)
 
