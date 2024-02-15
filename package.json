@@ -1,11 +1,9 @@
 {
-  "name": "@coyo_hm/coyo-ui",
+  "name": "@coyo-hm/coyo-ui",
   "private": false,
   "version": "1.0.24",
-  "description": "",
-  "author": {
-    "name": "coyo-hm"
-  },
+  "description": "[![npm version](https://img.shields.io/npm/v/%40coyo_hm%2Fcoyo-ui)](https://www.npmjs.com/package/@coyo_hm/coyo-ui) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)",
+  "author": "coyo-hm",
   "keywords": [
     "component",
     "components",
@@ -16,15 +14,15 @@
   ],
   "homepage": "https://main--65ae91d7cdf7712a838d310c.chromatic.com",
   "bugs": {
-    "url": "https://github.com/COYO-HM/coyo-ui/issues"
+    "url": "https://github.com/coyo-hm/coyo-ui/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/COYO-HM/coyo-ui.git"
+    "url": "git+https://github.com/coyo-hm/coyo-ui.git"
   },
   "publishConfig": {
     "access": "public",
-    "@COYO-HM:registry": "https://npm.pkg.github.com",
+    "@coyo-hm:registry": "https://npm.pkg.github.com",
     "tag": "latest"
   },
   "license": "MIT",

@@ -1,6 +1,6 @@
 {
   "singleQuote": false,
-  "printWidth": 200,
+  "printWidth": 120,
   "semi": false,
   "trailingComma": "none",
   "useTabs": true,
