@@ -3,7 +3,7 @@ import Marquee from "./Marquee.tsx";
 import { css } from "@emotion/react";
 
 const meta: Meta<typeof Marquee> = {
-  title: "blog/Marquee",
+  title: "animation/Marquee",
   component: Marquee,
   tags: ["autodocs"],
   argTypes: {
