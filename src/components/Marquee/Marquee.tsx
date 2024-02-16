@@ -73,3 +73,5 @@ const Marquee = forwardRef(function (
 });
 
 export default Marquee;
+
+Marquee.displayName = "Marquee"
