@@ -14,7 +14,6 @@ export default defineConfig({
 			}
 		}),
 		dts({
-			// rollupTypes: true,
 			insertTypesEntry: true
 		}),
 		tsconfigPaths()
@@ -27,14 +26,14 @@ export default defineConfig({
 			fileName: format => `index.${format}.js`
 		},
 		rollupOptions: {
-			external: ["react", "react-dom"],
+			external: ["react", "react-dom", "**/*.stories.tsx"],
 			output: {
 				globals: {
 					react: "React",
 					"react-dom": "ReactDOM"
 				},
 				banner: '"use client";',
-				interop: "compat"
+				interop: "auto"
 			}
 		},
 		commonjsOptions: {
