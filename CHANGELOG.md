@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.1.1](https://github.com/coyo-hm/coyo-ui/compare/v1.1.0...v1.1.1) (2024-02-16)
+
+
+### ♻️ REFACTOR
+
+* 주석 삭제 ([2f6afb9](https://github.com/coyo-hm/coyo-ui/commit/2f6afb9c94ec4c188fd9665d89f08af8333d7042))
+
 ## [1.1.0](https://github.com/coyo-hm/coyo-ui/compare/v1.0.27...v1.1.0) (2024-02-16)
 
 
