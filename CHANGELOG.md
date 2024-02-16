@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.1.2](https://github.com/coyo-hm/coyo-ui/compare/v1.1.1...v1.1.2) (2024-02-16)
+
+
+### 🐛 BUG FIXES
+
+* peer dependencies 추가 ([e48da04](https://github.com/coyo-hm/coyo-ui/commit/e48da04cadc66f31e50ea97a6a7601a91f375741))
+
 ## [1.1.1](https://github.com/coyo-hm/coyo-ui/compare/v1.1.0...v1.1.1) (2024-02-16)
 
 
