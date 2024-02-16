@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.1.0](https://github.com/coyo-hm/coyo-ui/compare/v1.0.27...v1.1.0) (2024-02-16)
+
+
+### 🚀 FEATURES
+
+* test component 추가 ([3c33e64](https://github.com/coyo-hm/coyo-ui/commit/3c33e6464fc03db357a597c4d9e7723351721b71))
+
 ## [1.0.27](https://github.com/coyo-hm/coyo-ui/compare/v1.0.26...v1.0.27) (2024-02-15)
 
 
