@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.1.4](https://github.com/coyo-hm/coyo-ui/compare/v1.1.3...v1.1.4) (2024-02-16)
+
+
+### 🐛 BUG FIXES
+
+* testcomponent ([bc059e6](https://github.com/coyo-hm/coyo-ui/commit/bc059e6ace090eead8b3b1a87abbd3f87647916f))
+
 ## [1.1.3](https://github.com/coyo-hm/coyo-ui/compare/v1.1.2...v1.1.3) (2024-02-16)
 
 
