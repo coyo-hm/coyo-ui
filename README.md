@@ -7,6 +7,8 @@
 
 
 > 프로젝트 진행 중 자주 사용할 것 같은 ui component 를 생성해 둔 ui kit 입니다.
+> 
+> 해당 프로젝트는 개발중에 있으며 현재 CSR 환경에서만 지원되고 있습니다.
 
 
 ## Prerequisites
@@ -49,7 +51,7 @@ $ yarn add @coyo-ui
 
 ## Versioning
 
-[SemVer](http://semver.org/)을 사용하였습니다.
+[SemVer](http://semver.org/)을 사용하였습니다. 
 [tags on this repository](https://github.com/COYO-HM/coyo-ui/tags)을 통해 사용가능한 버전을 확인하실 수 있습니다.
 
 ## Link
