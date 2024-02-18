@@ -1,6 +1,6 @@
 # COYO-UI
 
-[![npm version](https://img.shields.io/npm/v/%40coyo_hm%2Fcoyo-ui)](https://www.npmjs.com/package/@coyo_hm/coyo-ui)
+[![npm version](https://img.shields.io/npm/v/coyo-ui)](https://www.npmjs.com/package/coyo-ui)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
@@ -17,28 +17,28 @@
 ## Table of contents
 
 - [COYO-UI](#COYO-UI)
-    - [Prerequisites](#prerequisites)
-    - [Table of contents](#table-of-contents)
-    - [Installation](#installation)
-    - [Built With](#built-with)
-    - [Versioning](#versioning)
-    - [Link](#link)
-    - [Authors](#authors)
-    - [License](#license)
+  - [Prerequisites](#prerequisites)
+  - [Table of contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Built With](#built-with)
+  - [Versioning](#versioning)
+  - [Link](#link)
+  - [Authors](#authors)
+  - [License](#license)
 
 ## Installation
 
 `npm`을 사용하신다면,
 ```sh
-$ npm i @coyo_hm/coyo-ui
+$ npm i @coyo-ui
 ```
 
 `yarn`을 사용하신다면
 
 ```sh
-$ yarn add @coyo_hm/coyo-ui
+$ yarn add @coyo-ui
 ```
-위의 명령어를 통해 간편하게 설치하실 수 있습니다. 
+위의 명령어를 통해 간편하게 설치하실 수 있습니다.
 
 ## Built With
 
@@ -55,8 +55,8 @@ $ yarn add @coyo_hm/coyo-ui
 ## Link
 
 * [🔗 github](https://github.com/coyo-hm/coyo-ui)
-* [🔗 storybook](https://main--65ae91d7cdf7712a838d310c.chromatic.com/?path=/docs/coyo-ui--docs)
-* [🔗 npm](https://www.npmjs.com/package/@coyo_hm/coyo-ui)
+* [🔗 storybook](https://main--65ae91d7cdf7712a838d310c.chromatic.com/?path=/docs/docs-introduction--docs)
+* [🔗 npm](https://www.npmjs.com/package/coyo-ui)
 
 ## Authors
 
