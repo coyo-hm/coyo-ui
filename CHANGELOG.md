@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [1.1.6](https://github.com/coyo-hm/coyo-ui/compare/v1.1.5...v1.1.6) (2024-02-18)
+
+
+### 📝 DOCS
+
+* 주의사항 추가 ([53ed4b3](https://github.com/coyo-hm/coyo-ui/commit/53ed4b39b45f009d946f7adc02d5b933cdc43c22))
+
 ## [1.1.5](https://github.com/coyo-hm/coyo-ui/compare/v1.1.4...v1.1.5) (2024-02-18)
 
 
