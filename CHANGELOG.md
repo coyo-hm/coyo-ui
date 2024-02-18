@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [1.1.5](https://github.com/coyo-hm/coyo-ui/compare/v1.1.4...v1.1.5) (2024-02-18)
+
+
+### 📝 DOCS
+
+* npm url 수정 ([d9b1bd1](https://github.com/coyo-hm/coyo-ui/commit/d9b1bd14ea31864900af5f2f3a58cafbdfa26f12))
+
+
+### 🐛 BUG FIXES
+
+* test component 삭제 ([35f1890](https://github.com/coyo-hm/coyo-ui/commit/35f1890dbe8b90e0ced3e672b1f21dd97976a7f9))
+
 ## [1.1.4](https://github.com/coyo-hm/coyo-ui/compare/v1.1.3...v1.1.4) (2024-02-16)
 
 
