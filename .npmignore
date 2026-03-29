@@ -33,7 +33,7 @@ storybook-static
 .gitignore
 .gitmessage.txt
 .prettierignore
-.prettierrc.json
+../boutme/.prettierrc.json
 .releaserc.json
 index.html
 package-lock.json
